@@ -1,0 +1,18 @@
+
+.menu{
+  margin: 100px 200px;
+background: #f3f3f3;
+
+}
+.motkhoi h3{
+  background: #339966;
+  padding: 2px 5px;
+}
+.content {
+  padding: 1px 10px;
+  border: 1px solid grey;
+  background: white;
+}
+h3.xanh{
+  background: #8DEEEE;
+}
